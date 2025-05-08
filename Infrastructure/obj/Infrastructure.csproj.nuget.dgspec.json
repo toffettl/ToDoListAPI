@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
+        "packagesPath": "/home/toffetti/.nuget/packages/",
+        "outputPath": "/home/toffetti/repos/ToDoListAPI/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
+                "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj",
+        "packagesPath": "/home/toffetti/.nuget/packages/",
+        "outputPath": "/home/toffetti/repos/ToDoListAPI/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/toffetti/.nuget/packages/",
+        "outputPath": "/home/toffetti/repos/ToDoListAPI/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj": {
+                "projectPath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj"
+              },
+              "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
+                "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
