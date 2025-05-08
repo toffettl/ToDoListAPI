@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pYhocRJ8Ig/O6y/NAT0afcauq7ZAiN9AARtRzxm0d50YPMVWSoFN52t+u/2+7VhKyn7IDFTSFjZlnpivqygeDQ==",
+  "dgSpecHash": "IVo7CLlmNE+FQ6MNy8sizPyHaj1cBKWZbLuXsKpJzuiWoCMbGMrFlEUZ1Jy4bF4/4nNReAbbRTnBiqI6aLWL5Q==",
   "success": true,
   "projectFilePath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/toffetti/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/toffetti/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

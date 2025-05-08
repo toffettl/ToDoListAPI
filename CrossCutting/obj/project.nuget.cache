@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2crdxnWFvgqs6EwLlX9PpTkDPD8zzAgNE0Xap8Lt4BzJRueFO2bV+uCCDgGkDqhpsk+1/f9yBzMTIw+YdxTSsw==",
+  "dgSpecHash": "MjhSpIoug9zwlRc5mu5SCl/2w8Z1sq9Mio4ha44fT6xpauTaSyGmC55xOhD9tqSQDvPKZ3pGh3o17dZYCwa4cQ==",
   "success": true,
   "projectFilePath": "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/toffetti/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/home/toffetti/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
