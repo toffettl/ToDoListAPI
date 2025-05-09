@@ -1,0 +1,12 @@
+/home/toffetti/repos/ToDoListAPI/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/toffetti/repos/ToDoListAPI/Domain/bin/Debug/net8.0/Domain.dll
+/home/toffetti/repos/ToDoListAPI/Domain/bin/Debug/net8.0/Domain.pdb
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.dll
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/Domain.pdb
+/home/toffetti/repos/ToDoListAPI/Domain/obj/Debug/net8.0/ref/Domain.dll
