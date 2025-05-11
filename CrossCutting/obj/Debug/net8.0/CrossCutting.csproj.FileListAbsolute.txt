@@ -11,3 +11,16 @@
 /home/toffetti/repos/ToDoListAPI/CrossCutting/obj/Debug/net8.0/refint/CrossCutting.dll
 /home/toffetti/repos/ToDoListAPI/CrossCutting/obj/Debug/net8.0/CrossCutting.pdb
 /home/toffetti/repos/ToDoListAPI/CrossCutting/obj/Debug/net8.0/ref/CrossCutting.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\CrossCutting.deps.json
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\CrossCutting.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\CrossCutting.pdb
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfo.cs
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.sourcelink.json
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\refint\CrossCutting.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.pdb
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\ref\CrossCutting.dll

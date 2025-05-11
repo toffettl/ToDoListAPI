@@ -1,39 +1,46 @@
 {
   "format": 1,
   "restore": {
-    "/home/toffetti/repos/ToDoListAPI/API/API.csproj": {}
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\API\\API.csproj": {}
   },
   "projects": {
-    "/home/toffetti/repos/ToDoListAPI/API/API.csproj": {
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/API/API.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/toffetti/repos/ToDoListAPI/API/API.csproj",
-        "packagesPath": "/home/toffetti/.nuget/packages/",
-        "outputPath": "/home/toffetti/repos/ToDoListAPI/API/obj/",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj"
               },
-              "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\CrossCutting.csproj"
               },
-              "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -42,7 +49,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -84,34 +97,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj": {
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
-        "packagesPath": "/home/toffetti/.nuget/packages/",
-        "outputPath": "/home/toffetti/repos/ToDoListAPI/Application/obj/",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -120,7 +140,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -147,26 +173,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj": {
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "/home/toffetti/repos/ToDoListAPI/CrossCutting/CrossCutting.csproj",
-        "packagesPath": "/home/toffetti/.nuget/packages/",
-        "outputPath": "/home/toffetti/repos/ToDoListAPI/CrossCutting/obj/",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -179,7 +212,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -206,26 +245,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj",
-        "packagesPath": "/home/toffetti/.nuget/packages/",
-        "outputPath": "/home/toffetti/repos/ToDoListAPI/Domain/obj/",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -238,7 +284,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -259,37 +311,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/toffetti/repos/ToDoListAPI/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/home/toffetti/.nuget/packages/",
-        "outputPath": "/home/toffetti/repos/ToDoListAPI/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/toffetti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj"
               },
-              "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj": {
-                "projectPath": "/home/toffetti/repos/ToDoListAPI/Domain/Domain.csproj"
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -298,7 +357,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -337,7 +402,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

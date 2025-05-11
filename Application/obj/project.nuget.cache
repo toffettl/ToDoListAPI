@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IVo7CLlmNE+FQ6MNy8sizPyHaj1cBKWZbLuXsKpJzuiWoCMbGMrFlEUZ1Jy4bF4/4nNReAbbRTnBiqI6aLWL5Q==",
+  "dgSpecHash": "FA3x6OVJrgg=",
   "success": true,
-  "projectFilePath": "/home/toffetti/repos/ToDoListAPI/Application/Application.csproj",
+  "projectFilePath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "/home/toffetti/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "/home/toffetti/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
