@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Domain.Interfaces;
 public interface IUnitOfWork
 {
+    IUserRepository Users { get; }
     Task<int> SaveChangesAsync();
     void Rollback();
 }

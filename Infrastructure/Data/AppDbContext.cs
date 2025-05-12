@@ -18,6 +18,12 @@ namespace Infrastructure.Data
 
             modelBuilder.Entity<TodoTask>()
                 .HasKey(t => t.TasksId);
+
+            modelBuilder.Entity<TodoTask>()
+                .HasOne(c => c.User)
+                .WithMany(u => u.TodoTasks)
+                .HasForeignKey(c => c.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

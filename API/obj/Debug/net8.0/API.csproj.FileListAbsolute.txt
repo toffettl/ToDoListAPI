@@ -234,3 +234,11 @@ C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\obj\Debug\net8.0\refint\API
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\obj\Debug\net8.0\API.pdb
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

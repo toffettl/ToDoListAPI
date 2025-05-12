@@ -11,10 +11,13 @@ namespace Infrastructure.Repositories;
 public class UnitOfWork : IUnitOfWork
 {
     private readonly AppDbContext _context;
-    public UnitOfWork(AppDbContext context)
+    public UnitOfWork(AppDbContext context, IUserRepository users)
     {
         _context = context;
+        Users = users;
     }
+
+    public IUserRepository Users { get; }
 
     public void Rollback()
     {

@@ -152,6 +152,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -205,7 +209,17 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Application\\Application.csproj"
+              },
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\felip\\source\\repos\\toffettl\\ToDoListAPI\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -27,5 +27,7 @@ namespace Domain.Entities
         }
         public Priority TaskPriority { get; set; }
         public DateTime DateLimiting { get; set; }
+        public Guid UserId { get; set; }
+        public User? User { get; set; }
     }
 }

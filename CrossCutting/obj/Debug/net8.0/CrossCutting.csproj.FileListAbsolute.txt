@@ -24,3 +24,10 @@ C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\C
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\refint\CrossCutting.dll
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCutting.pdb
 C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\ref\CrossCutting.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Application.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Domain.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Application.pdb
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Domain.pdb
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\felip\source\repos\toffettl\ToDoListAPI\CrossCutting\obj\Debug\net8.0\CrossCut.C7E4F570.Up2Date
