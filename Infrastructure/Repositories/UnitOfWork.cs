@@ -11,13 +11,15 @@ namespace Infrastructure.Repositories;
 public class UnitOfWork : IUnitOfWork
 {
     private readonly AppDbContext _context;
-    public UnitOfWork(AppDbContext context, IUserRepository users)
+    public UnitOfWork(AppDbContext context, IUserRepository users, ITaskRepository tasks)
     {
         _context = context;
         Users = users;
+        Tasks = tasks;
     }
 
     public IUserRepository Users { get; }
+    public ITaskRepository Tasks { get; }
 
     public void Rollback()
     {
