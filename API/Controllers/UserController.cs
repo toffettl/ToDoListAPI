@@ -8,7 +8,7 @@ namespace API.Controllers;
 [ApiController]
 public class UserController : ControllerBase
 {
-    public readonly IUserService _userService;
+    private readonly IUserService _userService;
 
     public UserController(IUserService userService)
     {
@@ -22,7 +22,7 @@ public class UserController : ControllerBase
         var user = await _userService.GetUserByIdAsync(id);
         if (user == null)
         {
-            return NotFound();
+            return NotFound("User cannot be null!");
         }
 
         return Ok(user);
@@ -34,7 +34,7 @@ public class UserController : ControllerBase
         var updatedUser = await _userService.UpdateUserAsync(user);
         if (updatedUser == null)
         {
-            return NotFound();
+            return NotFound("User cannot be null!");
         }
         return Ok(updatedUser);
     }
@@ -45,7 +45,7 @@ public class UserController : ControllerBase
         var deletedUser = await _userService.DeleteUserAsync(id);
         if (deletedUser == null)
         {
-            return NotFound();
+            return NotFound("User cannot be null!");
         }
         return Ok(deletedUser);
     }
